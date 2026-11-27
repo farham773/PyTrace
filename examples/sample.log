@@ -1,0 +1,5 @@
+2026-11-27 09:15:00 [INFO] PyTrace example service started
+2026-11-27 09:16:12 [WARNING] Cache usage is above 80 percent
+2026-11-27 09:17:03 [ERROR] Database connection timed out
+INFO: Retry scheduled
+Unstructured log line retained as UNKNOWN
